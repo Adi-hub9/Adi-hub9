@@ -10,6 +10,8 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 Let’s connect, learn, and grow together—one repo at a time.
 You bring the snacks, I’ll bring the code 🍪💻
 
+💻 Tech Stack:
+Python R Azure MySQL MicrosoftSQLServer Canva Figma Krita Adobe Premiere Pro Matplotlib NumPy Pandas Plotly Power Bi HTML5
 <!--
 **Adi-hub9/Adi-hub9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
